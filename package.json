@@ -1,6 +1,6 @@
 {
     "name": "LukasCrasher",
-    "version": "1.2",
+    "version": "1.2.0",
     "description": "LukasCrasher",
     "main": "index.js",
     "type": "commonjs",
